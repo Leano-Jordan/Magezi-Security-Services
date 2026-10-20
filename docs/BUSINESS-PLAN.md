@@ -9,9 +9,9 @@
 - **Proposed business:** Magezi Security Services.
 - **Initial service focus:** Contract guarding for businesses and properties.
 - **Initial market hypothesis:** Local businesses and property operators may need reliable, professional guarding. This must be validated with real customer conversations.
-- **Funding constraint:** The prospective operating partner has limited startup funds.
-- **Rosco's intended role:** Co-founder with an agreed ownership stake, contributing business strategy, branding, web presence, systems and business development.
-- **Operating partner's proposed role:** Security operations and industry expertise.
+- **Startup funding:** Not yet established. The available amount, source, timing and responsibility for costs are unknown.
+- **Rosco's role:** Not decided. The first task is to work out a fair arrangement based on actual contributions, ongoing responsibilities, risk and available funding.
+- **Prospective operating partner's role:** Expected to bring security-industry experience and potentially lead service delivery, but the exact responsibilities and capacity need confirmation.
 - **Status:** The venture and partnership are still under discussion. No service contract, ownership split, legal structure, budget, launch date or regulatory status is confirmed.
 
 ## 2. Strategy
@@ -71,25 +71,35 @@ For each potential contract, calculate:
 4. Working capital needed before the first client payment.
 5. Minimum viable price and break-even point.
 
-No prices or margins have been established yet. Do not guess them into customer quotations.
+No prices, startup budget or margins have been established yet. Mark estimates clearly and do not guess them into customer quotations.
 
-## 6. Partnership principles
+## 6. Fair founder arrangement — open decision
 
-Rosco intends to contribute business-building, digital presence, systems and business development in return for an agreed ownership stake. The operating partner is expected to contribute security expertise and lead service delivery. Both sets of responsibilities need confirmation.
+The aim is to find an arrangement that both people consider fair and that the business can sustain. Do not assume an equal split, a particular job title or a specific legal role before the facts are known.
 
-Before substantial unpaid work or expenditure, record:
-- Initial and ongoing contributions, time commitments and expenses.
-- Ownership, vesting/earning conditions if appropriate, decision rights and exit terms.
-- Whether either founder is paid for operational or professional work.
-- Ownership/licensing of the brand, domain, website, code and reusable Rosscore assets.
-- Company/director roles and any regulatory implications.
-- What happens if funding, contracts or compliance cannot be secured.
+First document each person's:
+- Initial and ongoing work, expected hours and accountability.
+- Cash contributions, who pays each cost, and whether money is a loan, reimbursable expense or capital contribution.
+- Industry expertise, customer relationships, equipment and other assets actually contributed.
+- Financial risk, personal guarantees (if any), and responsibilities if the business cannot pay its bills.
+- Expectations about compensation now versus later.
 
-Do not assume that shareholding and directorship are the same thing. Confirm the implications of any proposed role with a qualified South African adviser and PSiRA before finalising the structure.
+Then compare possible structures:
+- **Equity for ongoing co-founder contributions:** ownership tied to clear roles and continued contribution, with suitable terms for departure or non-performance.
+- **Unequal founder equity:** split reflects the agreed contribution, risk, responsibility and time commitment; it need not be equal.
+- **Earn-in / vesting arrangement:** some ownership is earned over time or agreed milestones, subject to professional advice and clear written terms.
+- **Paid services plus equity:** Rosco is paid for defined work when affordable, with a separately agreed ownership stake.
+- **Paid-services arrangement without co-founder status:** appropriate only if that better matches the real relationship and both sides agree.
+
+These are options to assess, not decisions. Equity should not be based only on who had the idea or who can contribute cash today. Consider future responsibility and the value of work, but do not treat speculative future work as already completed.
+
+Before substantial unpaid work or expenditure, record ownership principles, responsibilities, decision rights, compensation, expense approval, IP ownership/licensing, deadlock, departure and dispute handling. Keep Rosscore's reusable tools and IP separate unless a written agreement says otherwise.
+
+Shareholding, directorship and day-to-day management are different matters. Confirm any regulatory implications with PSiRA and a qualified South African adviser before choosing a structure.
 
 ## 7. Compliance gate
 
-Before providing security services, verify current requirements directly with PSiRA and the relevant South African authorities. The official PSiRA business-registration guidance lists CIPC company registration, registered management/directors at the specified grade, SARS-related documents, a one-year business plan, a declaration of capacity to operate, and immovable office premises among the requirements. Confirm the current checklist, definitions, costs and applicability directly with PSiRA before spending money.
+Before providing security services, verify current requirements directly with PSiRA and the relevant South African authorities. Published PSiRA business-registration guidance has listed CIPC company registration, registration requirements for management/directors at a specified grade, SARS-related documents, a one-year business plan, a declaration of capacity to operate, and immovable office premises among the requirements. Confirm the current checklist, definitions, costs and applicability directly with PSiRA before spending money.
 
 Official starting points:
 - PSiRA registration information: https://www.psira.co.za/index.php?catid=2&highlight=WyJjZXJ0aWZpY2F0ZSIsIm9mIiwicmVnaXN0cmF0aW9uIl0%3D&id=77%3Aregistration-division-test1&view=article
@@ -117,12 +127,12 @@ This checklist is a research starting point, not legal advice or proof of compli
 ## 9. Current unknowns
 
 - Partner's confirmed qualifications, PSiRA status and availability.
+- Whether the partner has potential clients or both founders are starting from zero.
 - Which customer segment and site type to target first.
 - Exact service scope, staffing plan and geographic coverage.
 - Legal structure, registration status and director/management roles.
-- Startup funds and who pays each cost.
+- Startup funds, likely setup costs and who pays each cost.
 - Pricing, wages, contract terms and working-capital needs.
-- Prospects, customer feedback and likely first contract.
-- Ownership split, decision rights, compensation and IP terms.
+- Ownership, responsibilities, decision rights, compensation and IP terms.
 
 Update this plan only when new information is verified or a decision is explicitly made.
