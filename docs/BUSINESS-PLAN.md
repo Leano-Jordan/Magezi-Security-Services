@@ -8,17 +8,22 @@
 
 - **Proposed business:** Magezi Security Services.
 - **Initial service focus:** Contract guarding for businesses and properties.
-- **Initial market hypothesis:** Local businesses and property operators may need reliable, professional guarding. This must be validated with real customer conversations.
-- **Startup funding:** Not yet established. The available amount, source, timing and responsibility for costs are unknown.
-- **Rosco's role:** Not decided. The first task is to work out a fair arrangement based on actual contributions, ongoing responsibilities, risk and available funding.
+- **Customer position:** Starting from zero customers. No demand or contract has yet been validated.
+- **Startup funding:** Not established. The available amount, source, timing and responsibility for costs are unknown.
+- **Rosco's role:** Fair arrangement to be determined. Rosco has proposed co-ownership, but the partner has not agreed yet.
 - **Prospective operating partner's role:** Expected to bring security-industry experience and potentially lead service delivery, but the exact responsibilities and capacity need confirmation.
-- **Status:** The venture and partnership are still under discussion. No service contract, ownership split, legal structure, budget, launch date or regulatory status is confirmed.
+- **Contributions:** The founders may contribute different skills, time and resources. The amount and value of each contribution are not yet established.
+- **Status:** No service contract, ownership split, legal structure, budget, launch date or regulatory status is confirmed.
 
-## 2. Strategy
+## 2. Strategy and first milestone
 
 Start narrow. Identify one manageable customer segment and one service model that Magezi can lawfully deliver, staff and finance. Validate demand before spending on a polished website, custom software, uniforms in bulk or other non-essential items.
 
-The first commercial milestone is a credible, qualified prospect and a realistic understanding of what it would cost to serve them—not simply company registration or a logo.
+The first milestone is not company registration or a logo. It is:
+1. Both prospective founders understand and accept the proposed working relationship.
+2. At least some credible customer demand has been tested.
+3. The cost and compliance requirements for a first contract are understood.
+4. A realistic plan exists to fund delivery before the customer pays.
 
 ## 3. Customer discovery
 
@@ -37,7 +42,7 @@ For each prospect, establish:
 - Budget expectations and payment terms.
 - What would make a new provider credible enough to consider?
 
-Do not promise staffing, response times, patrols or other capabilities before operational capacity is confirmed.
+Do not promise staffing, response times, patrols or other capabilities before operational capacity is confirmed. Interest is not a sale; record concrete next steps and seek evidence rather than relying on encouraging comments.
 
 ## 4. Service delivery model — questions to answer
 
@@ -75,27 +80,28 @@ No prices, startup budget or margins have been established yet. Mark estimates c
 
 ## 6. Fair founder arrangement — open decision
 
-The aim is to find an arrangement that both people consider fair and that the business can sustain. Do not assume an equal split, a particular job title or a specific legal role before the facts are known.
+The aim is an arrangement both people freely accept and that gives the business a realistic chance of surviving. Co-ownership is only a proposal until both people agree.
 
-First document each person's:
-- Initial and ongoing work, expected hours and accountability.
-- Cash contributions, who pays each cost, and whether money is a loan, reimbursable expense or capital contribution.
-- Industry expertise, customer relationships, equipment and other assets actually contributed.
-- Financial risk, personal guarantees (if any), and responsibilities if the business cannot pay its bills.
-- Expectations about compensation now versus later.
+### Recommended process
 
-Then compare possible structures:
-- **Equity for ongoing co-founder contributions:** ownership tied to clear roles and continued contribution, with suitable terms for departure or non-performance.
-- **Unequal founder equity:** split reflects the agreed contribution, risk, responsibility and time commitment; it need not be equal.
-- **Earn-in / vesting arrangement:** some ownership is earned over time or agreed milestones, subject to professional advice and clear written terms.
-- **Paid services plus equity:** Rosco is paid for defined work when affordable, with a separately agreed ownership stake.
-- **Paid-services arrangement without co-founder status:** appropriate only if that better matches the real relationship and both sides agree.
+1. **Discuss intentions first.** Ask whether the partner genuinely wants to build the business with Rosco as a co-owner, and what each expects from the relationship.
+2. **Define contributions.** Write down each person's work, expected hours, accountability, contacts, skills, equipment, cash and financial risk. Distinguish contributions already made from promises about future work.
+3. **Run a short, limited planning period.** If both want to explore the idea, use (for example) 30 days to test demand, estimate costs and verify compliance. Set a limit on hours and spending. This is not a reason to demand unlimited unpaid work.
+4. **Review the evidence.** Compare actual effort, future responsibilities, risk, available funding and what the business needs.
+5. **Choose the structure.** Consider co-founder equity, unequal equity, an equity earn-in/vesting arrangement, or paid services with or without a smaller stake. These are options, not predetermined answers.
+6. **Write terms before substantial work.** Record roles, ownership and how it is earned, decision rights, compensation, expense approval, deadlock, departure, dispute handling and IP.
 
-These are options to assess, not decisions. Equity should not be based only on who had the idea or who can contribute cash today. Consider future responsibility and the value of work, but do not treat speculative future work as already completed.
+### Principles for fairness
 
-Before substantial unpaid work or expenditure, record ownership principles, responsibilities, decision rights, compensation, expense approval, IP ownership/licensing, deadlock, departure and dispute handling. Keep Rosscore's reusable tools and IP separate unless a written agreement says otherwise.
+- Do not assume 50/50 is automatically fair, or that unequal equity is automatically fair.
+- Do not decide shares based only on who had the idea or who can provide cash today.
+- Consider both initial input and ongoing work, responsibility, customer acquisition, operational risk and time commitment.
+- Treat equity and payment for work as separate questions. Equity may reward ownership risk; it should not silently become an unlimited substitute for pay.
+- If ownership is earned over time or milestones, get professional advice and make the conditions clear.
+- Agree what happens if funding or customers do not materialise, or if one person stops contributing.
+- Keep Rosscore's reusable tools and IP separate unless a written agreement says otherwise.
 
-Shareholding, directorship and day-to-day management are different matters. Confirm any regulatory implications with PSiRA and a qualified South African adviser before choosing a structure.
+Shareholding, directorship and day-to-day management are different matters. Confirm any regulatory implications with PSiRA and a qualified South African adviser before choosing a structure. This section is planning guidance, not legal advice.
 
 ## 7. Compliance gate
 
@@ -127,12 +133,13 @@ This checklist is a research starting point, not legal advice or proof of compli
 ## 9. Current unknowns
 
 - Partner's confirmed qualifications, PSiRA status and availability.
-- Whether the partner has potential clients or both founders are starting from zero.
+- Whether the partner genuinely wants a co-founder relationship.
+- Each person's actual and proposed contributions, hours and responsibilities.
+- Startup funds, likely setup costs and who pays each cost.
 - Which customer segment and site type to target first.
 - Exact service scope, staffing plan and geographic coverage.
 - Legal structure, registration status and director/management roles.
-- Startup funds, likely setup costs and who pays each cost.
 - Pricing, wages, contract terms and working-capital needs.
-- Ownership, responsibilities, decision rights, compensation and IP terms.
+- Ownership, decision rights, compensation and IP terms.
 
 Update this plan only when new information is verified or a decision is explicitly made.
