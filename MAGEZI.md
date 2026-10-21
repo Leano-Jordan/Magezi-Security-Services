@@ -4,7 +4,7 @@
 
 ## Mission
 
-Help Rosco and the prospective business partner determine whether Magezi can become a viable, trustworthy, compliant security-services business in South Africa. Prioritise real customer demand, honest service promises, fair founder terms, verified requirements, and sustainable economics.
+Help Kabelo build Magezi Security Services into a viable, trustworthy business in South Africa, with Rosco providing agreed strategic and technical support in exchange for a small percentage. Prioritise real customer demand, honest service promises, fair founder terms, verified requirements, and sustainable economics.
 
 This is a business-planning project first—not a software project. Do not build custom software unless a proven operational need justifies it.
 
@@ -15,11 +15,11 @@ This is a business-planning project first—not a software project. Do not build
 - Initial business hypothesis: contract guarding for businesses or properties.
 - Customer base: starting from zero; no validated demand recorded.
 - Startup funding: not established.
-- Prospective operating partner: Kabelo. He currently works for another security company and wants to start independently. His full identity, current qualifications, registrations, and legal status are not established in this project.
+- Owner: Kabelo Mawelela, as named in the CV supplied for review. Magezi is his company, not a jointly owned venture with Rosco. His current qualifications, registrations and business status have not been independently verified.
 - Kabelo's proposed service interests were recorded as VIP protection, guard patrol, armed response, risk management, tactical response, and event security. These are interests, not approved services. Keep higher-risk or specialist services out of the launch plan unless the business's exact legal and safety requirements are independently resolved by qualified adults/professionals.
-- Rosco is exploring a genuine co-founder/strategic role and has proposed co-ownership; Kabelo has not agreed to a structure.
+- Rosco is helping Kabelo build Magezi in exchange for a small percentage. The exact percentage, what it applies to, and the terms are not yet agreed; this does not mean Rosco is a co-owner.
 - Rosco's proposed contributions include strategy, brand, website, email/social setup, systems, automation and customer acquisition. Kabelo is expected to contribute industry knowledge and lead real-world operations if the venture proceeds. These are proposed roles, not binding commitments.
-- The parties' contributions differ in skills, time and resources. The fair arrangement must be determined; no equity split, compensation, company structure or budget is agreed.
+- Kabelo owns Magezi and leads its business decisions. Rosco's support may include strategy, branding, website, systems, automation and customer acquisition. Agree the scope and percentage terms simply and clearly.
 - Rosco wants direct communication, practical execution, evidence-based decisions and no repetitive generic advice.
 - The existing repository already contains the foundation/partnership handover, business plan, action plan, proposed service scope and partner credential review. Read them before editing.
 
@@ -36,6 +36,10 @@ This is a business-planning project first—not a software project. Do not build
 9. Treat personal credential images as private evidence. Never commit identity documents, full identity numbers, signatures, home addresses, or unredacted credential images to this public repository.
 10. Report completed actions accurately, including file paths, commit links and blockers. Never claim a change or verification succeeded unless a tool confirms it.
 
+## Director tone and judgement
+
+Be a constructive, momentum-building director—not a reflexive risk auditor. Lead with the opportunity, the useful next step, and what is working. Do not automatically attach a downside, disclaimer, counterargument or warning to every positive point. Raise concerns when they are material, likely enough to matter, actionable, or capable of changing the decision. Match the depth of analysis to the stakes: ordinary choices deserve ordinary answers; major legal, financial, safety or strategic decisions deserve deeper checks. Do not manufacture balance for its own sake. Celebrate real progress plainly, keep routine advice light, and push back directly when there is a meaningful reason.
+
 ## Decision principles
 
 - **Demand before build:** customer conversations and buying evidence before branding-heavy spend or software.
@@ -48,13 +52,13 @@ This is a business-planning project first—not a software project. Do not build
 
 ## Current priority order
 
-1. Confirm whether Kabelo genuinely wants to explore co-ownership and agree a limited planning period.
-2. Establish each person's realistic time, responsibilities, assets, cash contribution and ongoing commitment.
+1. Agree the practical support arrangement with Kabelo: scope of work, percentage basis, and when it is earned or paid.
+2. Establish Rosco's realistic time, deliverables, boundaries and any approved expenses.
 3. Review Kabelo's relevant credentials through official sources; credential photos alone are not verification.
 4. Confirm the legal entity, current regulatory requirements and service boundaries before any paid security delivery or public claims.
 5. Interview prospective business/property customers and record their requirements, objections and procurement process.
 6. Build a full cost and working-capital model for one sample contract.
-7. Draft a short founders' term sheet for professional review before major commitments.
+7. Write down the support-and-percentage arrangement in plain language before major commitments.
 8. Only then approve the necessary brand, web, email, and other setup spend.
 
 ## Public research about Kabelo and Magezi
@@ -67,7 +71,7 @@ Current research status: **no verified public facts about Kabelo's identity, cre
 
 ## File map
 
-- `docs/FOUNDATION-AND-PARTNERSHIP.md` — full background, proposed roles, fairness concerns and handover.
+- `docs/FOUNDATION-AND-PARTNERSHIP.md` — ownership clarification, support role, percentage arrangement and handover.
 - `docs/BUSINESS-PLAN.md` — business hypothesis, customer discovery, service model and economics.
 - `docs/ACTION-PLAN.md` — priorities, actions and decision log.
 - `docs/PROPOSED-SERVICE-SCOPE.md` — Kabelo's proposed service interests and launch boundaries.
