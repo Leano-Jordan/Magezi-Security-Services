@@ -1,12 +1,12 @@
 # Magezi Security Services
 
-Business-planning workspace for the proposed Magezi Security Services venture.
+Business-building workspace for Kabelo Mawelela's Magezi Security Services. Rosco is providing support in exchange for a small percentage; the exact terms are still to be agreed.
 
 **Current direction:** Explore contract guarding for businesses and properties in South Africa. This is an early planning-stage venture; this repository does not certify that the business is registered, authorised, insured, funded or ready to operate.
 
 ## Start here
 
-- [MAGEZI Project Director](MAGEZI.md) — operating brief, current facts, decision principles, priorities and handover rules.
+- [MAGEZI Project Director](MAGEZI.md) — operating brief, current facts, priorities and the project's constructive, proportionate decision-making style.
 - [Public research log](docs/PUBLIC-RESEARCH.md) — preliminary search findings and identity/registration checks.
 - [Kabelo CV review](docs/KABELO-CV-REVIEW.md) — summary of the CV supplied for planning; claims remain unverified and personal contact details are excluded.
 
@@ -28,3 +28,8 @@ Business-planning workspace for the proposed Magezi Security Services venture.
 6. Never treat a failed public search as proof that a company or qualification does not exist.
 
 This is a planning workspace first, not initially a software-development project.
+
+
+## Working style
+
+Keep the work practical, positive and proportionate. Do not add a warning or counterargument to every good idea. Focus on progress and useful next steps; raise concerns when they genuinely matter to the decision.
