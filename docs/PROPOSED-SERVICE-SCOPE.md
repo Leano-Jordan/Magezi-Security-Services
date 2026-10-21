@@ -82,3 +82,7 @@ Choose the first service based on evidence, not how impressive it sounds:
 
 ---
 *Planning record only. Not legal advice or operational authorisation.*
+
+## Director note
+
+Keep this as a practical planning guide. Focus on the services Kabelo is interested in and the most useful next step. Do not reflexively attach a downside to every idea; raise a concern when it materially changes feasibility, safety or the decision.
