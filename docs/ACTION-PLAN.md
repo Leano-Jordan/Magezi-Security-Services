@@ -46,6 +46,7 @@ Do not assume 50/50 is automatically fair, and do not assume unequal equity is a
 
 - [ ] Obtain the current PSiRA business-registration checklist directly from PSiRA.
 - [ ] Verify the prospective operating partner's individual registration, grade, standing and relevant qualifications.
+- [ ] Use `docs/PARTNER-CREDENTIALS-REVIEW.md` to record evidence and verification status; the intended credential images still need to be reattached and reviewed.
 - [ ] Confirm whether proposed directors and people performing executive/management functions must meet specific PSiRA registration requirements.
 - [ ] Before deciding whether Rosco should be a director, confirm the regulatory implications. Shareholding and directorship are not the same thing.
 - [ ] Confirm CIPC, SARS, payroll, UIF, COIDA, insurance, employment and premises requirements relevant to the intended model.
