@@ -49,3 +49,7 @@ Rosco should reattach the two intended images directly in the current chat (or p
 ---
 
 *Internal planning record only. Not a legal opinion, certificate authentication, or authorisation to provide security services.*
+
+## Director note
+
+Keep verification focused and proportionate: record what is known, what is still unconfirmed, and the next useful check. Avoid repeating warnings that do not add new information. This document is a practical checklist, not a judgement of Kabelo as a person.
