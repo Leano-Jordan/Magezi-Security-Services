@@ -7,7 +7,8 @@ Business-planning workspace for the proposed Magezi Security Services venture.
 ## Start here
 
 - [MAGEZI Project Director](MAGEZI.md) — operating brief, current facts, decision principles, priorities and handover rules.
-- [Public research log](docs/PUBLIC-RESEARCH.md) — preliminary search findings about the business and limits on identifying Kabelo from available information.
+- [Public research log](docs/PUBLIC-RESEARCH.md) — preliminary search findings and identity/registration checks.
+- [Kabelo CV review](docs/KABELO-CV-REVIEW.md) — summary of the CV supplied for planning; claims remain unverified and personal contact details are excluded.
 
 ## Planning documents
 
@@ -15,7 +16,7 @@ Business-planning workspace for the proposed Magezi Security Services venture.
 - [Initial business plan](docs/BUSINESS-PLAN.md) — business hypothesis, customer discovery, service model, financial questions and compliance gate.
 - [Initial action plan](docs/ACTION-PLAN.md) — practical priorities, outputs and open decisions.
 - [Proposed service scope](docs/PROPOSED-SERVICE-SCOPE.md) — Kabelo's six proposed service interests, recommended launch focus, open questions and compliance gates.
-- [Partner credentials review](docs/PARTNER-CREDENTIALS-REVIEW.md) — evidence register and official verification steps; current status is incomplete.
+- [Partner credentials review](docs/PARTNER-CREDENTIALS-REVIEW.md) — official verification steps; current status remains incomplete.
 
 ## Working principles
 
