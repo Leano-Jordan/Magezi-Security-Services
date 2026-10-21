@@ -4,6 +4,11 @@ Business-planning workspace for the proposed Magezi Security Services venture.
 
 **Current direction:** Explore contract guarding for businesses and properties in South Africa. This is an early planning-stage venture; this repository does not certify that the business is registered, authorised, insured, funded or ready to operate.
 
+## Start here
+
+- [MAGEZI Project Director](MAGEZI.md) — operating brief, current facts, decision principles, priorities and handover rules.
+- [Public research log](docs/PUBLIC-RESEARCH.md) — preliminary search findings about the business and limits on identifying Kabelo from available information.
+
 ## Planning documents
 
 - [Foundation, partnership and agent handover](docs/FOUNDATION-AND-PARTNERSHIP.md) — original context, proposed roles, fairness concerns and handover rules.
@@ -19,5 +24,6 @@ Business-planning workspace for the proposed Magezi Security Services venture.
 3. Verify applicable South African regulatory and operating requirements before offering services.
 4. Record decisions and distinguish confirmed facts from assumptions.
 5. Do not build custom software until a validated business need justifies it.
+6. Never treat a failed public search as proof that a company or qualification does not exist.
 
 This is a planning workspace first, not initially a software-development project.
