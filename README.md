@@ -10,6 +10,7 @@ Business-planning workspace for the proposed Magezi Security Services venture.
 - [Initial business plan](docs/BUSINESS-PLAN.md) — business hypothesis, customer discovery, service model, financial questions and compliance gate.
 - [Initial action plan](docs/ACTION-PLAN.md) — practical priorities, outputs and open decisions.
 - [Proposed service scope](docs/PROPOSED-SERVICE-SCOPE.md) — Kabelo's six proposed service interests, recommended launch focus, open questions and compliance gates.
+- [Partner credentials review](docs/PARTNER-CREDENTIALS-REVIEW.md) — evidence register and official verification steps; current status is incomplete.
 
 ## Working principles
 
