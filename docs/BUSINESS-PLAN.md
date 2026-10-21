@@ -10,9 +10,9 @@
 - **Initial service focus:** Contract guarding for businesses and properties.
 - **Customer position:** Starting from zero customers. No demand or contract has yet been validated.
 - **Startup funding:** Not established. The available amount, source, timing and responsibility for costs are unknown.
-- **Rosco's role:** Fair arrangement to be determined. Rosco has proposed co-ownership, but the partner has not agreed yet.
-- **Prospective operating partner's role:** Expected to bring security-industry experience and potentially lead service delivery, but the exact responsibilities and capacity need confirmation.
-- **Contributions:** The founders may contribute different skills, time and resources. The amount and value of each contribution are not yet established.
+- **Owner:** Kabelo Mawelela, based on the CV supplied for review; the legal registration details have not been independently verified.
+- **Rosco's role:** Strategic and technical support to Kabelo's company, potentially including planning, branding, web, systems, automation and customer acquisition, in exchange for a small percentage.
+- **Arrangement:** The exact percentage and whether it is based on revenue, profit, equity or another measure still need to be agreed. Rosco is not a co-owner by default.
 - **Status:** No service contract, ownership split, legal structure, budget, launch date or regulatory status is confirmed.
 
 ## 2. Strategy and first milestone
@@ -78,17 +78,17 @@ For each potential contract, calculate:
 
 No prices, startup budget or margins have been established yet. Mark estimates clearly and do not guess them into customer quotations.
 
-## 6. Fair founder arrangement — open decision
+## 6. Rosco's support arrangement — open decision
 
-The aim is an arrangement both people freely accept and that gives the business a realistic chance of surviving. Co-ownership is only a proposal until both people agree.
+The aim is a clear, fair arrangement that recognises Rosco's contribution while Kabelo builds his company. Keep the agreement simple and proportionate to the work involved.
 
 ### Recommended process
 
-1. **Discuss intentions first.** Ask whether the partner genuinely wants to build the business with Rosco as a co-owner, and what each expects from the relationship.
+1. **Define the percentage.** Agree what the percentage is calculated from, when it is paid or earned, and whether it continues for a set period or ongoing support.
 2. **Define contributions.** Write down each person's work, expected hours, accountability, contacts, skills, equipment, cash and financial risk. Distinguish contributions already made from promises about future work.
 3. **Run a short, limited planning period.** If both want to explore the idea, use (for example) 30 days to test demand, estimate costs and verify compliance. Set a limit on hours and spending. This is not a reason to demand unlimited unpaid work.
 4. **Review the evidence.** Compare actual effort, future responsibilities, risk, available funding and what the business needs.
-5. **Choose the structure.** Consider co-founder equity, unequal equity, an equity earn-in/vesting arrangement, or paid services with or without a smaller stake. These are options, not predetermined answers.
+5. **Choose the structure.** Decide whether the percentage is a service arrangement tied to revenue/profit or actual company shares. Keep the choice straightforward and get professional help if formal share ownership is intended.
 6. **Write terms before substantial work.** Record roles, ownership and how it is earned, decision rights, compensation, expense approval, deadlock, departure, dispute handling and IP.
 
 ### Principles for fairness
@@ -101,7 +101,7 @@ The aim is an arrangement both people freely accept and that gives the business 
 - Agree what happens if funding or customers do not materialise, or if one person stops contributing.
 - Keep Rosscore's reusable tools and IP separate unless a written agreement says otherwise.
 
-Shareholding, directorship and day-to-day management are different matters. Confirm any regulatory implications with PSiRA and a qualified South African adviser before choosing a structure. This section is planning guidance, not legal advice.
+Company ownership and a percentage-based service arrangement are different. Confirm legal or tax details with a qualified South African adviser where needed. This section is planning guidance, not legal advice.
 
 ## 7. Compliance gate
 
@@ -143,3 +143,8 @@ This checklist is a research starting point, not legal advice or proof of compli
 - Ownership, decision rights, compensation and IP terms.
 
 Update this plan only when new information is verified or a decision is explicitly made.
+
+
+## Director working style
+
+The plan should create momentum, not paperwork for its own sake. Start with the useful opportunity and next action. Add cautions only where they materially affect the decision, and do not overcomplicate everyday choices.
