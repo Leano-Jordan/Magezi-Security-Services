@@ -9,15 +9,14 @@
 - Initial service: contract guarding for businesses or properties.
 - Customers: starting from zero; no demand has yet been validated.
 - Funding: amount, source and responsibility for costs are unknown.
-- Partnership: Rosco has proposed co-ownership, but the partner has not agreed yet.
-- Contributions: the founders may bring different skills, time and resources; exact commitments are not yet defined.
+- Ownership: Magezi is Kabelo's company. Rosco is helping build it in exchange for a small percentage; the exact basis and terms are not yet agreed.
 
-## Priority 1 — Have a no-pressure founder discussion
+## Priority 1 — Agree the support arrangement
 
-The immediate goal is not to negotiate a percentage. First establish whether both people want to build the same business and whether they can make realistic commitments.
+The immediate goal is to agree what Rosco will do and what the small percentage means, in plain language.
 
-- [ ] Ask the partner directly whether he wants to explore co-ownership or would prefer another arrangement.
-- [ ] Write down each person's proposed responsibilities, expected weekly time, skills, contacts, equipment and ongoing commitments.
+- [ ] Confirm that Kabelo owns Magezi and Rosco is providing support, not becoming a co-owner by default.
+- [ ] Write down Rosco's key deliverables, time boundaries and any ongoing support expected.
 - [ ] Ask what cash is actually available, what it must cover, who can pay which costs, and whether money would be a loan, reimbursable expense or investment.
 - [ ] Discuss whether either founder needs payment for work and when the business could realistically afford it.
 - [ ] Set a clear limit on unpaid hours and out-of-pocket spending until written terms exist.
@@ -25,9 +24,9 @@ The immediate goal is not to negotiate a percentage. First establish whether bot
 
 **Output:** A written summary of shared goals, proposed roles, contributions, unresolved questions and the next decision.
 
-## Priority 2 — Test the partnership fairly before locking in equity
+## Priority 2 — Keep the arrangement clear and workable
 
-**Recommended approach:** If both people want to explore co-ownership, agree on a short, defined planning period before finalising shares. This should not be an excuse for unlimited unpaid work.
+**Recommended approach:** Agree the scope and percentage basis before substantial work. Keep it simple and fair; avoid open-ended expectations on either side.
 
 - [ ] Agree a limited initial period (for example, 30 days) with specific tasks, time limits and an end-of-period review.
 - [ ] Use the period to validate customer demand, estimate startup costs and check compliance—not to provide unlicensed security services.
@@ -40,7 +39,7 @@ The immediate goal is not to negotiate a percentage. First establish whether bot
 
 Do not assume 50/50 is automatically fair, and do not assume unequal equity is automatically fair. Compare what each person will actually do, what risk they accept, what they contribute over time and how the business will make decisions.
 
-**Output:** A reasoned founder-structure proposal—or a decision not to proceed as co-founders yet.
+**Output:** A clear written support-and-percentage arrangement.
 
 ## Priority 3 — Establish feasibility and compliance
 
@@ -96,12 +95,17 @@ Official starting points:
 |---|---|---|
 | 2026-10-20 | Initial focus: contract guarding for businesses or properties | Direction selected; service scope still open |
 | 2026-10-20 | Startup funding | Not established; amount, source and cost responsibility unknown |
-| 2026-10-20 | Rosco's role | Fair arrangement to be determined; co-ownership proposed but not agreed |
+| 2026-10-21 | Ownership/support | Magezi is Kabelo's company; Rosco expects a small percentage for support; exact terms remain open |
 | 2026-10-20 | Customers | Starting from zero; demand not yet validated |
 | 2026-10-20 | Workspace | Use this GitHub repository for business planning and decision records, not primarily for coding |
 
 ## Immediate next step
 
-Arrange the founder discussion. Establish whether the partner is open to co-ownership, what each person will contribute, how much time each can commit, and what money is available. Then run a time-limited planning period with clear limits before deciding on equity.
+Agree the support scope and define the percentage in plain language: percentage of what, calculated how, and when paid or earned. Then get back to building the business.
 
 This is an action plan, not confirmation that any item has been completed.
+
+
+## Working style
+
+Prioritise forward movement and useful deliverables. Do not turn every task into a long list of cautions. Raise issues when they change what we should do; otherwise keep the work light, clear and moving.
