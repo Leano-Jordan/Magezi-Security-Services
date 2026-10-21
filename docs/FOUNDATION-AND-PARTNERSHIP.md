@@ -7,9 +7,9 @@
 
 Magezi Security Services is a proposed local security business. The initial idea is to build a recognisable, easy-to-contact, professional neighbourhood security service that earns trust through reliability and prompt service.
 
-Rosco is exploring a genuine co-founder/strategic partner role. The prospective operating partner brings security-industry experience and would lead security operations; Rosco would bring business-building, branding, web, systems, automation, strategy and client-acquisition support. Rosco does **not** want to be treated as a regular admin employee or to keep delivering substantial work indefinitely on vague promises. He wants to explore a fair partnership where contributions, responsibilities, ownership, decision rights and compensation are clear.
+Magezi Security Services is Kabelo Mawelela's company. Rosco is helping him build it in exchange for a small percentage; this is not a joint venture and Rosco is not assumed to be a co-owner. Rosco may contribute business strategy, branding, website, systems, automation and customer-acquisition support, while Kabelo owns the business and leads its operations.
 
-This is an opportunity under exploration, not yet an agreed partnership. No ownership percentage, payment, company structure, service offering, launch date, budget or regulatory status has been confirmed.
+The exact percentage and its basis still need to be agreed in plain language. Keep the arrangement practical and fair, without turning every decision into a legal exercise.
 
 ## 2. People and current context
 
@@ -74,9 +74,9 @@ These are proposed responsibilities based on the conversation, not a signed comm
 
 Clarify which work Rosco will do personally, what Rosscore as a business will own or license, what is a one-off setup task, and what ongoing work is expected.
 
-## 5. Ownership, compensation and fairness
+## 5. Support arrangement and percentage
 
-**No ownership split has been agreed.** Any percentages previously discussed are examples only, not a recommendation or promise. Do not treat 50/50, 60/40 or any other split as decided.
+**Kabelo owns Magezi.** Rosco expects a small percentage for his support, but the exact percentage and basis are not yet agreed. Clarify simply whether it is a percentage of revenue, profit, company shares, or another defined measure; these are different arrangements.
 
 Rosco recognises that the operating partner may deserve a larger share because he will carry the security operations and industry responsibilities. At the same time, Rosco's contribution may include substantial setup work and continuing strategic/technical value. The fair arrangement must reflect actual contributions, risk, time, responsibility, capital, client access and future workload—not just who had the original idea.
 
@@ -91,7 +91,7 @@ Before substantial work or spending, discuss and document:
 - Whether Rosscore provides ongoing services under a separate agreement and how those services are priced or exchanged for equity.
 - Confidentiality, conflicts of interest, exit/departure, share transfers, buyouts, sale of the business, death/incapacity and dispute resolution.
 
-Avoid an informal arrangement where Rosco provides unlimited unpaid work in return for an undefined future stake. Equally, do not pressure the prospective partner into a split before understanding what each person can realistically contribute. A short written founders' term sheet, reviewed by an appropriate South African professional, is a sensible step before major commitments.
+Avoid an informal arrangement where Rosco provides unlimited unpaid work in return for an undefined future stake. Equally, do not pressure the prospective partner into a split before understanding what each person can realistically contribute. A short written support-and-percentage note is a sensible way to make sure both people understand the arrangement. Get professional advice if the chosen structure requires it.
 
 ## 6. Startup work discussed for this week
 
@@ -170,10 +170,10 @@ Any agent continuing this project should:
 - The venture is called Magezi Security Services in the working project/repository.
 - The potential operating partner lives on Rosco's street and currently works for another security company.
 - He wants to start independently and has security experience; reported licensing/compliance still needs verification.
-- Rosco is exploring a co-founder role and has already provided some informal advice without charge.
+- Rosco is helping Kabelo build Magezi and has already provided some informal advice without charge.
 - The partner may have limited funds to pay Rosco upfront.
 - Rosco can potentially handle registration coordination, branding, website, email and social setup.
-- No equity split or payment arrangement is agreed.
+- A small percentage for Rosco is the intended arrangement; its basis and terms remain to be agreed.
 - Rosco wants a fair, genuine, potentially repeatable partnership model through Rosscore.
 - Rosco wants simple communication and concrete execution.
 
@@ -194,3 +194,8 @@ Have the partner conversation and capture the answers to the open questions. The
 ---
 
 *Working handover, not legal advice, a binding agreement, or confirmation of regulatory compliance. Update as evidence and decisions become available.*
+
+
+## Director communication style
+
+Keep advice warm, direct and focused on progress. Do not reflexively list risks, cons or caveats after every positive point. Mention a downside when it is genuinely relevant, significant or actionable—not just to create artificial balance. Keep routine decisions simple; reserve deep scrutiny for decisions where the stakes justify it.
