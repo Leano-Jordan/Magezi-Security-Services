@@ -51,3 +51,7 @@ This is a public repository. Do not commit the CV image, personal address, phone
 
 ---
 *Internal planning assessment only. It is not a background check, credential authentication, legal opinion, or authorisation to provide security services.*
+
+## Director note
+
+Treat this as a straightforward summary of the CV and a starting point for understanding Kabelo's experience. Recognise relevant experience plainly; distinguish unverified claims only where that distinction matters to a business decision. Do not turn the review into a negative judgement.
