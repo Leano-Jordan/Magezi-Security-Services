@@ -41,3 +41,7 @@ Do not guess the person's identity from first name alone. Do not place ID number
 ## Current decision
 
 **No public claim about Kabelo's credentials or Magezi's legal status is authorised by this research.** Continue planning, but keep registration, authorisation, insurance and qualifications marked as unverified until independently confirmed.
+
+## Director note
+
+Keep research factual and concise. Report useful findings first, avoid over-interpreting missing search results, and do not add speculative negatives just to balance a positive result.
